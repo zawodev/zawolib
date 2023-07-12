@@ -1,0 +1,12 @@
+README.md
+setup.py
+zawolib/__init__.py
+zawolib/msgcount.py
+zawolib/progressbar.py
+zawolib.egg-info/PKG-INFO
+zawolib.egg-info/SOURCES.txt
+zawolib.egg-info/dependency_links.txt
+zawolib.egg-info/requires.txt
+zawolib.egg-info/top_level.txt
+zawolib/example/__init__.py
+zawolib/example/example.py
