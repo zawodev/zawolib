@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: zawolib
-Version: 1.0
+Version: 1.0.1
 Summary: zawolib typu zawolib
 Author: zawodev
 Author-email: chuj@cieto.obchodzi.pl
@@ -14,4 +14,7 @@ Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown
 
 
-baba boi
+python3 setup.py sdist bdist_wheel
+twine upload dist/*
+
+nowa wersja za kazdym razem

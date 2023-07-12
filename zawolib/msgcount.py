@@ -1,7 +1,7 @@
 """  Liczenie wiadomosci poszczegolnych uzytkownikow serwera i sortowanie eleganckie tego rankingu  """
 import os
 import discord
-import progressbar
+from zawolib import progressbar
 from datetime import datetime
 clear = lambda: os.system('cls')
 
